@@ -1,4 +1,2 @@
-In this folder the .stl files for 3D prints.
-The files start with 3D_
-The schematic layout with the relative position of all components is also shown.
-
+Στον φάκελο αυτό περριέχονται όλα τα αρχεία .stl για την εκτύπωση των μηχανικών τμημάτων για τρισδιάστατη εκτύπωση.
+Επίσης το διάγραμμα του μηχανικού τμήματος αποθήκευσης και διαλογής των χαπιών.
